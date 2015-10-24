@@ -1,0 +1,7 @@
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+C:\Users\傲娇小笼包\Desktop\Notepad\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
